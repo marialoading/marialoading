@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### About Me:
-IT Trainee - some of my projects, tasks and progress in becoming a developer
-Let's connect: Instagram @maria.loading 😄
+ - IT Trainee - some of my projects, tasks and progress in becoming a developer
+ - Let's connect: Instagram @maria.loading 😄
 <!--
 **Necira/Necira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
