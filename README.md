@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### About Me:
+ - 24, based in Wiesbaden
  - IT Trainee - some of my projects, tasks and progress in becoming a developer
  - Let's connect: Instagram @maria.loading 😄
 <!--
