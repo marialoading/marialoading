@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### About Me:
- - 24, based in Wiesbaden
+ - 25, based in Wiesbaden
  - IT Trainee - some of my projects, tasks and progress in becoming a developer
  - mostly using web-stack including frameworks like Vue
  - Let's connect: Instagram @maria.loading 😄
