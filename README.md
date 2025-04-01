@@ -1,8 +1,12 @@
 ## Hi there 👋
- <h1 align="left">About Me:</h1>
-  25, based in Wiesbaden
-  <h1 align="left">Stack</h1>
- 💬 Freelancing & Working in Web-development
+ <h2 align="left">About Me:</h2>
+ <dl align="left">
+    <dt>
+       <dt> 💬 based in Wiesbaden </dt>
+       <dt> 💬 Freelancing & Working in Web-development </dt>
+  </dl>
+
+  <br />
   <h2 align="left">Current Learning</h2>
   <dl align="left">
     <dt>
@@ -10,8 +14,8 @@
        <dt>🌱 visiting tech-school </dt>
        <dt>🌱 Game-Development </dt>
   </dl>
-
-  <h3 align="left">Most skilled at</h3> 
+  <br />
+  <h3 align="center">Most skilled at</h3> 
    <table align="center">
      <tr>
       <td align="center" width="90">
@@ -43,6 +47,8 @@
         <br>Tailwind
       </td>
  </tr>
+   </table >
+  <br />
  <h4 align="left">Let's connect: Instagram @maria.loading 😄</h4>  
 <!--
 **Necira/Necira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
