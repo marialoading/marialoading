@@ -46,6 +46,11 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
         <br>Tailwind
       </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
+        <br>Docker
+      </td>
+      
  </tr>
    </table >
   <br />
