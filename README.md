@@ -1,9 +1,9 @@
 ## Hi there 👋
-### About Me:
- - 25, based in Wiesbaden
-  <h1 align="left">Stack</h3>
+ <h1 align="left">About Me:</h1>
+  25, based in Wiesbaden
+  <h1 align="left">Stack</h1>
  💬 Freelancing & Working in Web-development
-  <h2 align="left">Current Learning</h3>
+  <h2 align="left">Current Learning</h2>
   <dl align="left">
     <dt>
        <dt>🌱 Deepening Backend/Frontend knowledge </dt>
@@ -11,9 +11,9 @@
        <dt>🌱 Game-Development </dt>
   </dl>
 
-   <h4 align="left">Most skilled at</h4> 
-<table align="center">
-<tr>
+  <h3 align="left">Most skilled at</h3> 
+   <table align="center">
+     <tr>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
         <br>Javascript
@@ -43,7 +43,7 @@
         <br>Tailwind
       </td>
  </tr>
- - Let's connect: Instagram @maria.loading 😄
+ <h4 align="left">Let's connect: Instagram @maria.loading 😄</h4>  
 <!--
 **Necira/Necira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
