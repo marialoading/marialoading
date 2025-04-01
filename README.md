@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+I see you :D
+</br>
+</br>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Necira)
  <h2 align="left">About Me:</h2>
  <dl align="left">
     <dt>
