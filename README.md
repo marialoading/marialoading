@@ -10,7 +10,10 @@
        <dt>🌱 visiting tech-school </dt>
        <dt>🌱 Game-Development </dt>
   </dl>
+
    <h4 align="left">Most skilled at</h4> 
+<table align="center">
+<tr>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
         <br>Javascript
@@ -39,6 +42,7 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
         <br>Tailwind
       </td>
+ </tr>
  - Let's connect: Instagram @maria.loading 😄
 <!--
 **Necira/Necira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
