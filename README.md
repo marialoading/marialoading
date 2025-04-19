@@ -9,7 +9,12 @@ I see you :D
        <dt> 💬 based in Wiesbaden </dt>
        <dt> 💬 Freelancing & Working in Web-development </dt>
   </dl>
-
+    <br />
+   <h2 align="left">⚡ Check out my self-programmed website for my modeling portfolio:</h2>
+ <dl align="left">
+    <dt>
+       <dt> https://marialoading.com/ </dt>
+  </dl>
   <br />
   <h2 align="left">Current Learning</h2>
   <dl align="left">
@@ -67,7 +72,7 @@ I see you :D
  </tr>
    </table >
   <br />
- <h4 align="left">Let's connect: Instagram @maria.loading 😄</h4>  
+ <h4 align="left">📫 Let's connect: info@marialoading.com 😄</h4>  
 <!--
 **Necira/Necira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
