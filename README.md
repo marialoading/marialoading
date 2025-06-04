@@ -1,8 +1,5 @@
-## Hi there 👋 
-I see you :D
-</br>
-</br>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Necira)
+## Hi 👋 
+
  <h2 align="left">About Me:</h2>
  <dl align="left">
     <dt>
@@ -10,18 +7,19 @@ I see you :D
        <dt> 💬 Freelancing & Working in Web-development </dt>
   </dl>
     <br />
-   <h2 align="left">⚡ Check out my self-programmed website for my modeling portfolio:</h2>
- <dl align="left">
-    <dt>
-       <dt> https://marialoading.com/ </dt>
-  </dl>
-  <br />
+   
   <h2 align="left">Current Learning</h2>
   <dl align="left">
     <dt>
        <dt>🌱 Deepening Backend/Frontend knowledge </dt>
        <dt>🌱 visiting tech-school </dt>
        <dt>🌱 Game-Development </dt>
+  </dl>
+  <br />
+<h2 align="left">⚡Check out my self-developed modeling portfolio website. Last updated: June 4, 2025. </h2>
+ <dl align="left">
+    <dt>
+       <dt> https://marialoading.com/ </dt>
   </dl>
   <br />
   <h3 align="center">Most skilled at</h3> 
@@ -73,17 +71,4 @@ I see you :D
    </table >
   <br />
  <h4 align="left">📫 Let's connect: info@marialoading.com 😄</h4>  
-<!--
-**Necira/Necira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
