@@ -16,7 +16,7 @@
        <dt>🌱 Game-Development </dt>
   </dl>
   <br />
-<h2 align="left">⚡Check out my self-developed modeling portfolio website. Last updated: June 4, 2025. </h2>
+<h2 align="left">⚡Check out my self-developed modeling portfolio website. </h2>
  <dl align="left">
     <dt>
        <dt> https://marialoading.com/ </dt>
@@ -70,5 +70,5 @@
  </tr>
    </table >
   <br />
- <h4 align="left">📫 Let's connect: info@marialoading.com 😄</h4>  
+ <h4 align="left">📫 Let's connect: tech@marialoading.com 😄</h4>  
 
