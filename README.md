@@ -1,22 +1,22 @@
-## Hi 👋 
+## Hi ✨
 
- <h2 align="left">About Me:</h2>
+ <h3 align="left">About Me:</h3>
  <dl align="left">
     <dt>
-       <dt> 💬 based in Wiesbaden </dt>
        <dt> 💬 Freelancing & Working in Web-development </dt>
+       <dt> 💬 Interested in collaborating on exciting open source projects </dt>
   </dl>
     <br />
    
-  <h2 align="left">Current Learning</h2>
+  <h3 align="left">Current Learning</h3>
   <dl align="left">
     <dt>
-       <dt>🌱 Deepening Backend/Frontend knowledge </dt>
-       <dt>🌱 visiting tech-school </dt>
+       <dt>🌱 preparing for finishing vocational school </dt>
        <dt>🌱 Game-Development </dt>
+       <dt>🌱 Diving into CI/CD </dt>
   </dl>
   <br />
-<h2 align="left">⚡Check out my self-developed modeling portfolio website. </h2>
+<h3 align="left">⚡Check out my self-developed modeling portfolio website </h3>
  <dl align="left">
     <dt>
        <dt> https://marialoading.com/ </dt>
