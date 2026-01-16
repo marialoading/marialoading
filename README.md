@@ -1,28 +1,12 @@
-## Hi ✨
+## <h1 align="center"> ᓚ₍⑅^..^₎♡ </h1>
 
- <h3 align="left">About Me:</h3>
- <dl align="left">
+ <dl align="center" >
     <dt>
-       <dt> 💬 Freelancing & Working in Web-development </dt>
-       <dt> 💬 Interested in collaborating on exciting open source projects </dt>
-  </dl>
-    <br />
-   
-  <h3 align="left">Current Learning</h3>
-  <dl align="left">
-    <dt>
-       <dt>🌱 preparing for finishing vocational school </dt>
-       <dt>🌱 Game-Development </dt>
-       <dt>🌱 Diving into CI/CD </dt>
-  </dl>
-  <br />
-<h3 align="left">⚡Check out my self-developed modeling portfolio website </h3>
- <dl align="left">
-    <dt>
-       <dt> https://marialoading.com/ </dt>
-  </dl>
-  <br />
-  <h3 align="center">Most skilled at</h3> 
+      <dt> ────୨ৎ────</dt>
+       <dt>  .✦ ݁˖ fullstack developer and freelance model </dt>
+       <dt>  .✦ ݁˖ Interested in collaborating on exciting open source projects </dt>
+ <dt>-ˋˏ✄┈┈┈┈ </dt>
+    <h3 align="center">Most skilled at</h3> 
    <table align="center">
      <tr>
       <td align="center" width="90">
@@ -70,5 +54,15 @@
  </tr>
    </table >
   <br />
- <h4 align="left">📫 Let's connect: tech@marialoading.com 😄</h4>  
+   <dt>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</dt>
+<h3 align="center">.✦ ݁˖ Check out my self-developed modeling portfolio website 𝜗ৎ </h3>
+ <dl align="center">
+    <dt>
+       <dt> https://marialoading.com/ </dt>
+  </dl>
+  <br />
+ 
+  <br />
+ <h4 align="center">♬⋆.˚ Let's connect: tech@marialoading.com </h4>  
+ <h5>₍^. .^₎⟆</h5>
 
