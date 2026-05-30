@@ -3,7 +3,7 @@
  <dl align="center" >
     <dt>
       <dt> ────୨ৎ────</dt>
-       <dt>  .✦ ݁˖ fullstack developer and freelance model </dt>
+       <dt>  .✦ ݁˖ fullstack developer, artist and freelance model </dt>
        <dt>  .✦ ݁˖ Interested in collaborating on exciting open source projects </dt>
  <dt>-ˋˏ✄┈┈┈┈ </dt>
     <h3 align="center">Most skilled at</h3> 
