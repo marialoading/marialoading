@@ -55,10 +55,10 @@
    </table >
   <br />
    <dt>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</dt>
-<h3 align="center">.✦ ݁˖ Check out my self-developed modeling portfolio website 𝜗ৎ </h3>
+<h3 align="center">.✦ ݁˖ Officially a bard now ♬⋆.˚𝜗ৎ </h3>
  <dl align="center">
     <dt>
-       <dt> https://marialoading.com/ </dt>
+       <dt> https://marialoading.com/artistPortfolio </dt>
   </dl>
   <br />
  
