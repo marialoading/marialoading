@@ -58,7 +58,7 @@
 <h3 align="center">.✦ ݁˖ Officially a bard now ♬⋆.˚𝜗ৎ </h3>
  <dl align="center">
     <dt>
-       <dt> https://marialoading.com/artistPortfolio </dt>
+       <dt> https://marialoading.com/artistportfolio </dt>
   </dl>
   <br />
  
