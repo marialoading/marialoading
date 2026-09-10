@@ -1,10 +1,9 @@
-## <h1 align="center"> ᓚ₍⑅^..^₎♡ </h1>
+
 
  <dl align="center" >
     <dt>
       <dt> ────୨ৎ────</dt>
-       <dt>  .✦ ݁˖ fullstack developer, artist and freelance model </dt>
-       <dt>  .✦ ݁˖ Interested in collaborating on exciting open source projects </dt>
+       <dt>  .✦ ݁˖ https://marialoading.com/ </dt>
  <dt>-ˋˏ✄┈┈┈┈ </dt>
     <h3 align="center">Most skilled at</h3> 
    <table align="center">
@@ -53,13 +52,6 @@
     
  </tr>
    </table >
-  <br />
-   <dt>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</dt>
-<h3 align="center">.✦ ݁˖ Officially a bard now ♬⋆.˚𝜗ৎ </h3>
- <dl align="center">
-    <dt>
-       <dt> https://marialoading.com/artistportfolio </dt>
-  </dl>
   <br />
  
   <br />
